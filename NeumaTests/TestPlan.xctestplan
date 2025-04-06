@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "3B9C9237-6566-48E3-80D1-44ED3CCD8483",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Neuma.xcodeproj",
+        "identifier" : "D443A39F2D99E0E100F9EB58",
+        "name" : "NeumaTests"
+      }
+    }
+  ],
+  "version" : 1
+}
