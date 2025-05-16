@@ -14,13 +14,3 @@ The application supports highlighting of keywords in the system's accent colour,
 <img width="500" alt="Screenshot 2025-04-06 at 10 45 34 PM" src="https://github.com/user-attachments/assets/ae774b56-2c00-48f0-88cb-61cdd702778b" />
 
 The execution of the script can be stopped at any time, and a corresponding message to the user appears after execution with a non-zero error. The output is shown in real-time via pipe mechanism.
-
-## Usage Instructions
-
-Prerequisites: 
-- Ensure you have Xcode installed on your macOS system.
-
-Building the Project:
-- Clone the repository or extract the Zip archive.
-- Open the Neuma.xcodeproj file in Xcode.
-- Build and run it!
